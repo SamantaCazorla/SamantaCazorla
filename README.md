@@ -22,8 +22,12 @@
 ![A/B Testing](https://img.shields.io/badge/A/B_Testing-990000?style=for-the-badge&logo=ab-testing&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Packages](https://img.shields.io/badge/Microsoft_Packages-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-3776AB?style=for-the-badge&logo=data&logoColor=white)
-
+![API](https://img.shields.io/badge/API-3776AB?style=for-the-badge&logo=api&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-3776AB?style=for-the-badge&logo=web&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📊 Current Learning Goals
 
