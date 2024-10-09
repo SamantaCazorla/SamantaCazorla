@@ -10,10 +10,7 @@
   
 - 🚀 Transitioning from R&D in genomics to data science, combining biology expertise with advanced analytics.
 
-<!---
-SamantaCazorla/SamantaCazorla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
 ### 🛠️ Tools & Technologies
 
